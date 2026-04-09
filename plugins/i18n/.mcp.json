@@ -1,7 +1,7 @@
 {
   "language": {
-    "command": "node",
-    "args": ["${HOME}/mcp-language-server/index.js"],
+    "command": "npx",
+    "args": ["-y", "git+https://github.com/tianmuji/mcp-language-server.git"],
     "env": {
       "OPERATE_BASE_URL": "https://operate.intsig.net",
       "SSO_LOGIN_URL": "https://web-sso.intsig.net/login",
