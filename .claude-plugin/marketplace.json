@@ -19,7 +19,13 @@
     {
       "name": "yapi",
       "description": "YApi API documentation management plugin. Search, query, create, and export API documentation via YApi MCP server.",
-      "source": "./plugins/yapi",
+      "source": {
+        "source": "git-subdir",
+        "url": "tianmuji/yapi-mcp-server",
+        "path": "plugins/yapi",
+        "ref": "main",
+        "sha": "7c927d29937a47c550ce44bc03d7adf4574d3132"
+      },
       "category": "development"
     }
   ]
