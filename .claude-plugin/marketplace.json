@@ -7,7 +7,13 @@
     {
       "name": "i18n",
       "description": "CamScanner multi-language string integration plugin. Search, export, and write locale strings via MCP language server.",
-      "source": "./plugins/i18n",
+      "source": {
+        "source": "git-subdir",
+        "url": "tianmuji/mcp-language-server",
+        "path": "plugins/i18n",
+        "ref": "main",
+        "sha": "e0d9fef2fb7aa56f17cd1d5d5abdca203c187918"
+      },
       "category": "development"
     },
     {
