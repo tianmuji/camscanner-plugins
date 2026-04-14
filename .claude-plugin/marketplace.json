@@ -12,7 +12,7 @@
         "url": "tianmuji/mcp-language-server",
         "path": "plugins/i18n",
         "ref": "main",
-        "sha": "e0d9fef2fb7aa56f17cd1d5d5abdca203c187918"
+        "sha": "9a5438b4f4168930d0578a65eacedb25f9292a2b"
       },
       "category": "development"
     },
@@ -25,6 +25,18 @@
         "path": "plugins/yapi",
         "ref": "main",
         "sha": "7c927d29937a47c550ce44bc03d7adf4574d3132"
+      },
+      "category": "development"
+    },
+    {
+      "name": "tracking",
+      "description": "Intsig Data Studio tracking/burial point management plugin. Search, query, and verify tracking records.",
+      "source": {
+        "source": "git-subdir",
+        "url": "tianmuji/tracking-mcp-server",
+        "path": "plugins/tracking",
+        "ref": "main",
+        "sha": "bc4460f"
       },
       "category": "development"
     }
