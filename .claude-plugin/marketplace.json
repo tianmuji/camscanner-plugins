@@ -36,7 +36,7 @@
         "url": "tianmuji/tracking-mcp-server",
         "path": "plugins/tracking",
         "ref": "main",
-        "sha": "bc4460f"
+        "sha": "bc4460fbfddf9fdf5d8f01d5af678815c19768de"
       },
       "category": "development"
     }
