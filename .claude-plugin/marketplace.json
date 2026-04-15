@@ -39,6 +39,18 @@
         "sha": "bc4460fbfddf9fdf5d8f01d5af678815c19768de"
       },
       "category": "development"
+    },
+    {
+      "name": "tapd",
+      "description": "TAPD bug tracking management plugin. Query bugs, view details, and assist bug fix workflow with e2e test verification.",
+      "source": {
+        "source": "git-subdir",
+        "url": "tianmuji/tapd-mcp-server",
+        "path": "plugins/tapd",
+        "ref": "main",
+        "sha": "6aaa8bb1c5be29a4f74ca8c04fa40659c3c92455"
+      },
+      "category": "development"
     }
   ]
 }
