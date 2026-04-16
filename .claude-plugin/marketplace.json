@@ -12,7 +12,7 @@
         "url": "tianmuji/mcp-language-server",
         "path": "plugins/i18n",
         "ref": "main",
-        "sha": "9a5438b4f4168930d0578a65eacedb25f9292a2b"
+        "sha": "3b3a0d7cc0abfa943ec35201ae4d971c928aecec"
       },
       "category": "development"
     },
@@ -24,7 +24,7 @@
         "url": "tianmuji/yapi-mcp-server",
         "path": "plugins/yapi",
         "ref": "main",
-        "sha": "7c927d29937a47c550ce44bc03d7adf4574d3132"
+        "sha": "f6aa4dec1079c4734df26e7e3ad0ed575041b965"
       },
       "category": "development"
     },
@@ -48,7 +48,7 @@
         "url": "tianmuji/tapd-mcp-server",
         "path": "plugins/tapd",
         "ref": "main",
-        "sha": "6aaa8bb1c5be29a4f74ca8c04fa40659c3c92455"
+        "sha": "9716c1ea4ff12c188b6e2a10057fa4ba961895b4"
       },
       "category": "development"
     }
