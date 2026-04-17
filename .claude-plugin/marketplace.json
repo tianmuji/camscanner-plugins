@@ -9,7 +9,7 @@
       "description": "CamScanner multi-language string integration plugin. Search, export, and write locale strings via MCP language server.",
       "source": {
         "source": "git-subdir",
-        "url": "tianmuji/mcp-language-server",
+        "url": "https://github.com/tianmuji/mcp-language-server.git",
         "path": "plugins/i18n",
         "ref": "main",
         "sha": "47a84fd9558f836632b9d190119dae6522b63e86"
@@ -21,7 +21,7 @@
       "description": "YApi API documentation management plugin. Search, query, create, and export API documentation via YApi MCP server.",
       "source": {
         "source": "git-subdir",
-        "url": "tianmuji/yapi-mcp-server",
+        "url": "https://github.com/tianmuji/yapi-mcp-server.git",
         "path": "plugins/yapi",
         "ref": "main",
         "sha": "cdb43102f302927fc8cd95f7e8f7ebca21a19d62"
@@ -33,7 +33,7 @@
       "description": "Intsig Data Studio tracking/burial point management plugin. Search, query, and verify tracking records.",
       "source": {
         "source": "git-subdir",
-        "url": "tianmuji/tracking-mcp-server",
+        "url": "https://github.com/tianmuji/tracking-mcp-server.git",
         "path": "plugins/tracking",
         "ref": "main",
         "sha": "9350a1ebf29e68237c52cbd5e56b129cede06436"
@@ -45,7 +45,7 @@
       "description": "TAPD bug tracking management plugin. Query bugs, view details, and assist bug fix workflow with e2e test verification.",
       "source": {
         "source": "git-subdir",
-        "url": "tianmuji/tapd-mcp-server",
+        "url": "https://github.com/tianmuji/tapd-mcp-server.git",
         "path": "plugins/tapd",
         "ref": "main",
         "sha": "dadb8763e5bb5cbaebfa1476870f0592220625ae"
