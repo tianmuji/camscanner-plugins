@@ -48,7 +48,7 @@
         "url": "https://github.com/tianmuji/tapd-mcp-server.git",
         "path": "plugins/tapd",
         "ref": "main",
-        "sha": "0f7776bf0be063ef867a99633938dce414f59d98"
+        "sha": "afec033"
       },
       "category": "development"
     }
