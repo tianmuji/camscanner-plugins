@@ -24,7 +24,7 @@
         "url": "https://github.com/tianmuji/yapi-mcp-server.git",
         "path": "plugins/yapi",
         "ref": "main",
-        "sha": "cdb43102f302927fc8cd95f7e8f7ebca21a19d62"
+        "sha": "97a1a3cbb3b53ea4288fa86ee8cecea78f72040f"
       },
       "category": "development"
     },
@@ -48,7 +48,7 @@
         "url": "https://github.com/tianmuji/tapd-mcp-server.git",
         "path": "plugins/tapd",
         "ref": "main",
-        "sha": "afec033"
+        "sha": "afec03355d18fc66b17d50fd7e321425eba0ff11"
       },
       "category": "development"
     }
