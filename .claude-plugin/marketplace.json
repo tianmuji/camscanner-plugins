@@ -51,6 +51,18 @@
         "sha": "afec03355d18fc66b17d50fd7e321425eba0ff11"
       },
       "category": "development"
+    },
+    {
+      "name": "c3s",
+      "description": "C3S customer service platform plugin. Query tickets, view complaint details, and analyze media attachments.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tianmuji/c3s-mcp-server.git",
+        "path": "plugins/c3s",
+        "ref": "main",
+        "sha": "82e485e6bbbea647c306c3fae49f665d559d37e5"
+      },
+      "category": "development"
     }
   ]
 }
