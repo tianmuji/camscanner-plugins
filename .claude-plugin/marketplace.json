@@ -63,6 +63,18 @@
         "sha": "82e485e6bbbea647c306c3fae49f665d559d37e5"
       },
       "category": "development"
+    },
+    {
+      "name": "back-config",
+      "description": "CamScanner backend configuration management plugin. Query, update, rollback, and manage back_config feature flags.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tianmuji/back-config-mcp-server.git",
+        "path": "plugins/back-config",
+        "ref": "main",
+        "sha": "8f0d373f82f6087c8f96687e76c4e3cfcee9b7dc"
+      },
+      "category": "development"
     }
   ]
 }
