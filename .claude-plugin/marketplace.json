@@ -75,6 +75,18 @@
         "sha": "8f0d373f82f6087c8f96687e76c4e3cfcee9b7dc"
       },
       "category": "development"
+    },
+    {
+      "name": "decrypt-log",
+      "description": "CamScanner encrypted log decryption plugin. Decrypt iOS/Android encrypted logs locally via WASM.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tianmuji/mcp-decrypt-log.git",
+        "path": "plugins/decrypt-log",
+        "ref": "main",
+        "sha": "19927243af335f8c76e8a962975ce9644c031da2"
+      },
+      "category": "development"
     }
   ]
 }
